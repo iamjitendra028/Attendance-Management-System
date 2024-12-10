@@ -75,11 +75,6 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 Special thanks to the following:
 - **OpenCV** for face detection and recognition functionalities.
@@ -89,4 +84,4 @@ Special thanks to the following:
 
 ---
 
-For any questions or issues, feel free to contact **iamjitendra028@gmail.com**.
+For any questions or issues, feel free to contact iamjitendra028@gmail.com.
